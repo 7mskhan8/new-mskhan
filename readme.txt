@@ -5,5 +5,8 @@ This is the first line
 I am editing in second branch
 =======
 I am testing this for excercise purposes
-My name is Muhammad Jan
+<<<<<<< HEAD
 >>>>>>> .merge_file_fpmqy6
+=======
+My name is Muhammad Ahmed
+>>>>>>> update-readme
